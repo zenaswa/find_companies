@@ -5,6 +5,7 @@ params = {
     "lat": "49.4432",
     "long": "1.0999",
     "radius": "30",
+    "activite_principale": "62.01Z,62.02A,62.02B,62.03Z,62.09Z",
     "per_page": 10,
 }
 
